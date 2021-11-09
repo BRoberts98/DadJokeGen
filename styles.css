@@ -1,13 +1,17 @@
 body{
-    background-color: blue;
+    background: linear-gradient(to right, #1D1160, #00788C);
 }
 
 h1 {
 text-align: center;
+font-size: 35px;
+color: white;
 }
 
 #quoteDisplay{
     text-align: center;
+    font-size: 35px;
+    color: white;
 }
 
 button{
